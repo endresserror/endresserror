@@ -34,6 +34,7 @@ Webアプリとか気まぐれで作っています。
 
 基本的にpublicにしているコードは社会通念上よろしくないことに使わないのであればご自由にお使いください。
 コミットする速度はすごい遅いです。
+[Quiita](https://qiita.com/endresserror)
 
 <!--
 **endresserror/endresserror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
