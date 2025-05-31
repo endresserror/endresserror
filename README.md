@@ -20,7 +20,7 @@ Webアプリとか気まぐれで作っています。
 
 | 開発した物の名前 | 説明 |
 | ---- | ---- |
-| [入部システム](https://github.com/endresserror/Management_Member_By_StundetCard). | 学生証をタッチしたらその学籍番号宛てにメールを自動送信する |
+| [入部システム](https://github.com/endresserror/Management_Member_By_StundetCard) | 学生証をタッチしたらその学籍番号宛てにメールを自動送信する |
 | 入退室管理システム | 学生証を用いた部室の入退室記録を集計するプログラム |
 | 自作キーボード | RaspberryPicoを使った自作キーボード |
 | 楽曲推薦プログラム | ハッカソンで作った心拍数から楽曲をおすすめされるPythonコード |
