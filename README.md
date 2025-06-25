@@ -10,7 +10,7 @@ Webアプリとか気まぐれで作っています。
 | タイトル |　詳細 |
 ----|----
 | 自然言語 | 日本語,英語 |
-| 使用言語 | C,C++,C#,Java,Python,PHP,JavaScript |
+| 使用言語 | C,C++,C#,Java,Python,PHP,JavaScript<Kotlin |
 | スキル | Unity,WordPrss,DirectX,Adobe,Apache,Docker,Azure,AWS|
 | 使用OS | Windows,KaliLinux,Ubuntu,CentOS |
 | 趣味 | 温泉巡り,読書(米澤穂信さんの作品が好きです),競プロ,CTF,DJ,自宅ネットワーク |
