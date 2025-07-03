@@ -28,10 +28,10 @@ Webアプリとか気まぐれで作っています。
 | C言語で作ったサーバ | ウェブサイトを作るときに簡易的なテスト環境が欲しくて作りました |
 | 俳句の本人一致度判定 | 俳句を字句解析してデータベースとして登録されてる人が書いたか判定する |
 | ノイズ除去プログラム | ノイズ除去を複数の方法で行い、どれがその対象に適しているかを比較する |
-| 格子暗号の学習アプリ | [Pythonで作ったWebアプリ開発中です](https://learn-lattice-cryptography-faguata5ctgue7a7.japaneast-01.azurewebsites.net) |
+| 格子暗号の学習アプリ(https://learn-lattice-cryptography-faguata5ctgue7a7.japaneast-01.azurewebsites.net)  | Pythonで作ったWebアプリ開発中です|
 | 備品管理サイト | 部員がオンラインで備品の所在と個数と貸出状況を把握できる |
 | Pythonでのブラウザゲーム | 部活でのブラウザゲームの挙動の説明をするために作成　| 
-| 自作CTF | [週1で何かしら作ってAWS上で公開しています興味のある方は連絡くれればリンク送ります ](https://github.com/endresserror/CTFchallenge2) |
+| [自作CTF] (https://github.com/endresserror/CTFchallenge2) | 週1で何かしら作ってAWS上で公開しています興味のある方は連絡くれればリンク送ります|
 
 基本的にpublicにしているコードは社会通念上よろしくないことに使わないのであればご自由にお使いください。
 コミットする速度はすごい遅いです。
