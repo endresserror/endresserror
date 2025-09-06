@@ -12,7 +12,7 @@ Webアプリとか気まぐれで作っています。
 | 使用言語 | C,C++,C#,Java,Python,PHP,JavaScript,Kotlin,TypeScript |
 | スキル | Unity,WordPrss,DirectX,Adobe,Apache,Docker,Azure,AWS|
 | 使用OS | Windows,KaliLinux,Ubuntu,CentOS |
-| 趣味 | 温泉巡り,読書(米澤穂信さんの作品が好きです),競プロ,CTF,DJ,自宅ネットワーク |
+| 趣味 | 温泉巡り,読書(米澤穂信さんの作品が好きです),CTF,DJ, |
 
 基本的にpublicにしているコードは社会通念上よろしくないことに使わないのであればご自由にお使いください。
 コミットする速度はすごい遅いです。
