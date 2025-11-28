@@ -9,7 +9,7 @@ Webアプリとか気まぐれで作っています。
 [Quiita](https://qiita.com/endresserror)
 
 連絡はTelegramまでお願いします。
-[Telegram](@test_admin_user)
+[Telegram](https://t.me/test_admin_user)
 
 <!--
 **endresserror/endresserror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
