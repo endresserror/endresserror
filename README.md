@@ -6,8 +6,9 @@ Webアプリとか気まぐれで作っています。ハードウェアセキ�
 コミットする速度はすごい遅いです。
 [Quiita](https://qiita.com/endresserror)
 
-連絡はTelegramまでお願いします。
+連絡はTelegramかSignalまでお願いします。
 [Telegram](https://t.me/test_admin_user)
+[Signal](https://signal.me/#eu/S-vEdi3mtHLtDQEjo31s1odjzdnVECbfBa0355vGaH9WNL3HXmtFS7t4hA5ksgN3)
 
 <!--
 **endresserror/endresserror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
