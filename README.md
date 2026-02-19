@@ -7,8 +7,9 @@ Webアプリとか気まぐれで作っています。ハードウェアセキ�
 [Quiita](https://qiita.com/endresserror)
 
 連絡はTelegramかSignalまでお願いします。
-[Telegram](https://t.me/test_admin_user)
-[Signal](https://signal.me/#eu/S-vEdi3mtHLtDQEjo31s1odjzdnVECbfBa0355vGaH9WNL3HXmtFS7t4hA5ksgN3)
+[Telegram](https://t.me/test_admin_user),
+[Signal](https://signal.me/#eu/wohno70irrg42PxGjogw7eFZNzE6GzU9v9dSpxEv15CqZ5I1bitLD5hiGfej0TVr)
+
 
 <!--
 **endresserror/endresserror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
