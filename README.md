@@ -10,7 +10,8 @@ Webアプリとか気まぐれで作っています。ハードウェアセキ�
 [Telegram](https://t.me/test_admin_user),
 [Signal](https://signal.me/#eu/wohno70irrg42PxGjogw7eFZNzE6GzU9v9dSpxEv15CqZ5I1bitLD5hiGfej0TVr)
 
-
+Nostrやってます
+pub key→npub176h0h4pexw9dh9hf24aem89d8lm9c7uhv5rzx95cgp3gyns58mvs2j5ytr
 <!--
 **endresserror/endresserror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
