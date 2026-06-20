@@ -1,10 +1,9 @@
 ## ABOUT ME
 
-Webアプリとか気まぐれで作っています。ハードウェアセキュリティとか好きです。
-
 基本的にpublicにしているコードは社会通念上よろしくないことに使わないのであればご自由にお使いください。
-コミットする速度はすごい遅いです。
-[Quiita](https://qiita.com/endresserror)
+這い寄る混沌。
+
+[ホームページ](https://endresserror.com)
 
 連絡はTelegramかSignalまでお願いします。
 [Telegram](https://t.me/test_admin_user),
